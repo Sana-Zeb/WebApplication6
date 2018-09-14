@@ -14,7 +14,7 @@ namespace WebApplication6.Controllers
         {
             return View();
 
-
+            int a;
         }
 
         public IActionResult About()
